@@ -1,0 +1,14 @@
+packages:
+  "framer-motion": "For smooth scroll animations and section reveals"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility function to efficiently merge Tailwind CSS classes"
+
+images:
+  - path: "artifacts/lmm-contracting/public/images/hero-bg.png"
+    description: "A professional high-end residential construction site or blueprint in dark moody lighting, cinematic, architectural, deep blues and grays, abstract and clean"
+    aspect_ratio: "16:9"
+
+notes:
+  - This is a static, single-page landing site. No backend API integration is required.
+  - Contact form is display-only and prevents default submission.
+  - Wouter is included but primarily acts as a wrapper; navigation relies on standard anchor hash links for scrolling.
